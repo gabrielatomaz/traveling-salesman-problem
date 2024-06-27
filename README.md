@@ -25,11 +25,7 @@ The project is organized into the following directories:
 ## 🚀 How to Run
 
 1. Ensure you have Java installed on your system.
-2. Compile the Java files:
-   ```sh
-   javac -d bin src/**/*.java
-   ```
-3. Run the main application:
+2. Run the main application:
    ```sh
    java -cp bin App
    ```
