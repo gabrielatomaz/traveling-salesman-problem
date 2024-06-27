@@ -5,11 +5,11 @@ This project implements algorithms to solve the Traveling Salesman Problem (TSP)
 
 ## ✨ Approaches Implemented
 1. **Brute Force Approach**:
- - Description: Evaluates all possible permutations of cities to find the shortest route.
- - Usage: Suitable for small datasets due to its exhaustive nature.
+  - Description: Evaluates all possible permutations of cities to find the shortest route.
+  - Usage: Suitable for small datasets due to its exhaustive nature.
 2. **Minimum Spanning Tree (MST) Approach**:
- - Description: Constructs a minimum spanning tree of city connections to approximate the shortest route.
- - Usage: Efficient for larger datasets where brute force is impractical.
+  - Description: Constructs a minimum spanning tree of city connections to approximate the shortest route.
+  - Usage: Efficient for larger datasets where brute force is impractical.
 
 ## 📂 Project Structure
 
