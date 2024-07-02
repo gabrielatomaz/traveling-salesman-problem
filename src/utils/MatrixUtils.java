@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 public final class MatrixUtils {
     public static int[][] readAdjacencyMatrix(String file) {
-        var filepath = "./src/matrices/tsp" + file + ".txt";
+        var filepath = "./matrices/tsp" + file + ".txt";
         try {
             var matrixList = new ArrayList<int[]>();
             var reader = new BufferedReader(new FileReader(filepath));

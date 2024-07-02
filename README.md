@@ -27,7 +27,8 @@ The project is organized into the following directories:
 1. Ensure you have Java installed on your system.
 2. Run the main application:
    ```sh
-   java -cp bin App
+   javac App.java
+   java App
    ```
 
 ## 📜 Dependencies
